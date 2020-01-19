@@ -9,7 +9,7 @@
 
 # MAT281 - Aplicaciones de la Matemática en la Ingeniería
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ike-mercado-huanaque/mat281_portfolio/master?urlpath=lab)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ike-mercado-huanaque/mat281_portfolio/master?filepath=lab)
 
 * **Docentes**:  
     - Casa Central: [Alonso Ogueda](https://www.linkedin.com/in/aoguedaoliva/)
