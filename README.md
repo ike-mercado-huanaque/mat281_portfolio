@@ -9,10 +9,10 @@
 
 # MAT281 - Aplicaciones de la Matemática en la Ingeniería
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ike-mercado-huanaque/mat281_portfolio/master?filepath=lab)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ike-mercado-huanaque/mat281_portfolio/master?urlpath=lab)
 
 * **Docentes**:  
-    - Casa Central: [Alonso Ogueda](https://www.linkedin.com/in/aoguedaoliva/)
+    - Casa Central: [Ike Mercado Huanaque](https://www.linkedin.com/in/aoguedaoliva/)
     - Campus San Joaquín: [Francisco Alfaro](https://www.linkedin.com/in/francisco-alfaro-medina-80820aa2)
 
 * **Repositorio Código**: [mat281_2019S2](https://github.com/aLoNsolml/mat281_2019S2)
