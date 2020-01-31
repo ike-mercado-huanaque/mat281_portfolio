@@ -10,6 +10,8 @@
 # MAT281 - Aplicaciones de la Matemática en la Ingeniería
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ike-mercado-huanaque/mat281_portfolio/master?urlpath=lab)
+* **Importante**:
+    Los laboratorios y tareas del curso están guardados en la carpeta de su módulo y clase correspondiente, esos laboratorios y tareas están modificados con el desarrollo que hice en cada uno de ellos. 
 
 * **Docentes**:  
     - Casa Central: [Ike Mercado Huanaque](https://www.linkedin.com/in/aoguedaoliva/)
